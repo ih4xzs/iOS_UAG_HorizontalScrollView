@@ -21,6 +21,17 @@
 		00B711BB18CFEC79002ABC4D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B7119D18CFEC79002ABC4D /* UIKit.framework */; };
 		00B711C318CFEC79002ABC4D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00B711C118CFEC79002ABC4D /* InfoPlist.strings */; };
 		00B711C518CFEC79002ABC4D /* PageControlTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00B711C418CFEC79002ABC4D /* PageControlTests.m */; };
+		00B711DA18CFF113002ABC4D /* The-Dark-Side-Of-The-Moon-Pink-Floyd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D018CFF113002ABC4D /* The-Dark-Side-Of-The-Moon-Pink-Floyd.jpg */; };
+		00B711DB18CFF113002ABC4D /* Unknown-1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D118CFF113002ABC4D /* Unknown-1.jpeg */; };
+		00B711DC18CFF113002ABC4D /* Unknown-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D218CFF113002ABC4D /* Unknown-2.jpeg */; };
+		00B711DD18CFF113002ABC4D /* Unknown-3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D318CFF113002ABC4D /* Unknown-3.jpeg */; };
+		00B711DE18CFF113002ABC4D /* Unknown-4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D418CFF113002ABC4D /* Unknown-4.jpeg */; };
+		00B711DF18CFF113002ABC4D /* Unknown-5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D518CFF113002ABC4D /* Unknown-5.jpeg */; };
+		00B711E018CFF113002ABC4D /* Unknown-6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D618CFF113002ABC4D /* Unknown-6.jpeg */; };
+		00B711E118CFF113002ABC4D /* Unknown-7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D718CFF113002ABC4D /* Unknown-7.jpeg */; };
+		00B711E218CFF113002ABC4D /* Unknown-8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D818CFF113002ABC4D /* Unknown-8.jpeg */; };
+		00B711E318CFF113002ABC4D /* Unknown.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 00B711D918CFF113002ABC4D /* Unknown.jpeg */; };
+		00B711E518CFFCE7002ABC4D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B711E418CFFCE7002ABC4D /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +64,17 @@
 		00B711C018CFEC79002ABC4D /* PageControlTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PageControlTests-Info.plist"; sourceTree = "<group>"; };
 		00B711C218CFEC79002ABC4D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00B711C418CFEC79002ABC4D /* PageControlTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PageControlTests.m; sourceTree = "<group>"; };
+		00B711D018CFF113002ABC4D /* The-Dark-Side-Of-The-Moon-Pink-Floyd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The-Dark-Side-Of-The-Moon-Pink-Floyd.jpg"; sourceTree = "<group>"; };
+		00B711D118CFF113002ABC4D /* Unknown-1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-1.jpeg"; sourceTree = "<group>"; };
+		00B711D218CFF113002ABC4D /* Unknown-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-2.jpeg"; sourceTree = "<group>"; };
+		00B711D318CFF113002ABC4D /* Unknown-3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-3.jpeg"; sourceTree = "<group>"; };
+		00B711D418CFF113002ABC4D /* Unknown-4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-4.jpeg"; sourceTree = "<group>"; };
+		00B711D518CFF113002ABC4D /* Unknown-5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-5.jpeg"; sourceTree = "<group>"; };
+		00B711D618CFF113002ABC4D /* Unknown-6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-6.jpeg"; sourceTree = "<group>"; };
+		00B711D718CFF113002ABC4D /* Unknown-7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-7.jpeg"; sourceTree = "<group>"; };
+		00B711D818CFF113002ABC4D /* Unknown-8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-8.jpeg"; sourceTree = "<group>"; };
+		00B711D918CFF113002ABC4D /* Unknown.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Unknown.jpeg; sourceTree = "<group>"; };
+		00B711E418CFFCE7002ABC4D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00B711E518CFFCE7002ABC4D /* QuartzCore.framework in Frameworks */,
 				00B7119C18CFEC79002ABC4D /* CoreGraphics.framework in Frameworks */,
 				00B7119E18CFEC79002ABC4D /* UIKit.framework in Frameworks */,
 				00B7119A18CFEC79002ABC4D /* Foundation.framework in Frameworks */,
@@ -82,6 +105,7 @@
 		00B7118D18CFEC79002ABC4D = {
 			isa = PBXGroup;
 			children = (
+				00B711CE18CFF099002ABC4D /* img */,
 				00B7119F18CFEC79002ABC4D /* PageControl */,
 				00B711BE18CFEC79002ABC4D /* PageControlTests */,
 				00B7119818CFEC79002ABC4D /* Frameworks */,
@@ -101,6 +125,7 @@
 		00B7119818CFEC79002ABC4D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				00B711E418CFFCE7002ABC4D /* QuartzCore.framework */,
 				00B7119918CFEC79002ABC4D /* Foundation.framework */,
 				00B7119B18CFEC79002ABC4D /* CoreGraphics.framework */,
 				00B7119D18CFEC79002ABC4D /* UIKit.framework */,
@@ -150,6 +175,32 @@
 				00B711C118CFEC79002ABC4D /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		00B711CE18CFF099002ABC4D /* img */ = {
+			isa = PBXGroup;
+			children = (
+				00B711CF18CFF113002ABC4D /* Pink */,
+			);
+			name = img;
+			sourceTree = "<group>";
+		};
+		00B711CF18CFF113002ABC4D /* Pink */ = {
+			isa = PBXGroup;
+			children = (
+				00B711D018CFF113002ABC4D /* The-Dark-Side-Of-The-Moon-Pink-Floyd.jpg */,
+				00B711D118CFF113002ABC4D /* Unknown-1.jpeg */,
+				00B711D218CFF113002ABC4D /* Unknown-2.jpeg */,
+				00B711D318CFF113002ABC4D /* Unknown-3.jpeg */,
+				00B711D418CFF113002ABC4D /* Unknown-4.jpeg */,
+				00B711D518CFF113002ABC4D /* Unknown-5.jpeg */,
+				00B711D618CFF113002ABC4D /* Unknown-6.jpeg */,
+				00B711D718CFF113002ABC4D /* Unknown-7.jpeg */,
+				00B711D818CFF113002ABC4D /* Unknown-8.jpeg */,
+				00B711D918CFF113002ABC4D /* Unknown.jpeg */,
+			);
+			name = Pink;
+			path = ../Pink;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,8 +279,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00B711E118CFF113002ABC4D /* Unknown-7.jpeg in Resources */,
 				00B711B218CFEC79002ABC4D /* Images.xcassets in Resources */,
+				00B711DA18CFF113002ABC4D /* The-Dark-Side-Of-The-Moon-Pink-Floyd.jpg in Resources */,
+				00B711E218CFF113002ABC4D /* Unknown-8.jpeg in Resources */,
+				00B711DD18CFF113002ABC4D /* Unknown-3.jpeg in Resources */,
+				00B711E318CFF113002ABC4D /* Unknown.jpeg in Resources */,
+				00B711E018CFF113002ABC4D /* Unknown-6.jpeg in Resources */,
+				00B711DF18CFF113002ABC4D /* Unknown-5.jpeg in Resources */,
+				00B711DE18CFF113002ABC4D /* Unknown-4.jpeg in Resources */,
 				00B711A418CFEC79002ABC4D /* InfoPlist.strings in Resources */,
+				00B711DC18CFF113002ABC4D /* Unknown-2.jpeg in Resources */,
+				00B711DB18CFF113002ABC4D /* Unknown-1.jpeg in Resources */,
 				00B711AD18CFEC79002ABC4D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
